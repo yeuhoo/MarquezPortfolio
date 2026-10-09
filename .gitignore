@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.astro/
+.vercel/
+.DS_Store
+assets/
+public/images/advanced-derm.png
+public/images/portrait-hd-v2.png
+public/images/portrait-hd.png
+public/images/portrait-realistic-v2.png
+public/images/portrait-restored-cutout.png
+public/images/portrait.png
